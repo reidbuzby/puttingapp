@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "puttingappac54276e": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

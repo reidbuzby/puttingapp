@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-puttingapp-dev-132058-authRole",
+      "UnauthRoleArn": "arn:aws:iam::929643111148:role/amplify-puttingapp-dev-132058-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::929643111148:role/amplify-puttingapp-dev-132058-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-puttingapp-dev-132058-deployment",
+      "UnauthRoleName": "amplify-puttingapp-dev-132058-unauthRole",
+      "StackName": "amplify-puttingapp-dev-132058",
+      "StackId": "arn:aws:cloudformation:us-east-1:929643111148:stack/amplify-puttingapp-dev-132058/a82634c0-f6ae-11ea-bcff-0a9888c17b59",
+      "AmplifyAppId": "dhei394j01qnu"
+    },
+    "categories": {
+      "auth": {
+        "puttingappac54276e": {}
+      }
+    }
+  }
+}
